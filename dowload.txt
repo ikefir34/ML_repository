@@ -1,0 +1,15 @@
+Для картинок
+tensorflow
+datasets
+numpy
+torch
+torchvision
+PIL
+Для текста
+gensim
+fasttext-wheel==0.9.2 пробуем если прокатит
+# !pip install "numpy<2.0" было необходимо для fasttext
+pip install "transformers[torch]" -U
+Звук
+evaluate
+librosa
